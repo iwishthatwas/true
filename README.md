@@ -1,1 +1,1 @@
-# true
+# Its just an obsidian folder
